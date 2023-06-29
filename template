@@ -1,0 +1,24 @@
+  SYSTEM_ROLE:
+    FF_MOCK_CUSTOMER_ERP_ID_:
+        value: "0001792464"
+    FF_MOCK_CUSTOMER_NAME_:
+        value: "SAP Internal – Security Validation"
+    FF_MOCK_INSTALLATION_NUMBER_:
+        value: "90824459"
+    FF_MOCK_SWCLASS_:
+        value: "SAPCLD"
+    FF_MOCK_PPMS_:
+        value: "73555000100800000472"
+    FF_MOCK_SYSTEM_NUMBER_:
+        value: "000000000741174055"
+    FF_MOCK_SYSTEM_ROLE_:
+        value: "HRC"
+    FF_MOCK_SYSTEM_URL_:
+        value: ""
+    FF_MOCK_SYSTEM_ID_:
+        value: "SCS"
+    FF_MOCK_EXTERNAL_ID_:
+        value: "8a2c2134-ca27-4c58-ac49-62649d12605c"
+    FF_MOCK_SUSER_:
+        value: "S0021095922"
+

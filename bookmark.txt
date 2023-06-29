@@ -1,0 +1,2 @@
+1.Smoketest Jenkins	https://gkepsdsxbotci.jaas-gcp.cloud.sap.corp/
+2.Main Jenkins	https://dsxprod.jaas-gcp.cloud.sap.corp/view/Java-Master/
