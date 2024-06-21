@@ -1,13 +1,11 @@
 #!/bin/bash
+bookmark=/Users/I335512/Documents/bookmark.txt
 if [[ $# == 0 ]]; then
-	echo "Missing argument. Program terminated."
-	exit
-fi
-if [[ $1 == 0 ]]; then
-	cat bookmark.txt
+	cat $bookmark
 	exit
 fi
 
-url=$(cat bookmark.txt | grep $1. | cut -f 2)
+echo "1st arg is: $1"
+url=$(cat $bookmark | grep "^$1)" | cut -f 2)
 echo "open $url"
 open $url
